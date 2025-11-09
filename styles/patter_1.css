@@ -9,7 +9,7 @@
 }
 @font-face{
 	font-family:'Comfortaa Regular';
-	src:url('Psycho/fonts/Comfortaa.ttf');
+	src:url('https://varyag39.github.io/Psycho/fonts/Comfortaa.ttf');
 }
 ::selection{
 	color:white;
@@ -64,3 +64,4 @@ footer > div{
 	font-size:15px;
 
 }
+
