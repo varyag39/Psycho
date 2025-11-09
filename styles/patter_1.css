@@ -9,7 +9,7 @@
 }
 @font-face{
 	font-family:'Comfortaa Regular';
-	src:url('D:/ADMIN/Desktop/project/fonts/Comfortaa.ttf');
+	src:url('Psycho/fonts/Comfortaa.ttf');
 }
 ::selection{
 	color:white;
@@ -62,4 +62,5 @@ footer{
 }
 footer > div{
 	font-size:15px;
+
 }
